@@ -41,7 +41,12 @@
     <a href="https://jetty.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/eclipse_jetty/eclipse_jetty-icon.svg" width="40" height="40"/></a>
     <a href="https://www.cloudflare.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="40" height="40"/></a>
 </p>
-
+<h3 align="center">🚧 Projects I'm Working On</h3>
+<p align="center">
+  Here are a couple public projects I’m involved with — I don’t list all projects publicly.<br/><br/>
+  <strong>Neon Client</strong> — A Minecraft cheat with advanced gameplay modifications and enhancements (<a href="https://neonclient.com" target="_blank" rel="noreferrer">neonclient.com</a>)<br/>
+  <strong>Anticheat-Test</strong> — Anticheat testing Minecraft server (IP: <code>anticheat-test.com</code>)
+</p>
 <h3 align="center">💬 Contact Me</h3>
 <p align="center">
   Discord: <code>@classloader</code>
